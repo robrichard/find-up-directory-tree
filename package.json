@@ -1,0 +1,12 @@
+{
+  "name": "find-up-directory-tree",
+  "version": "1.0.0",
+  "description": "Find the path of a filename by searching every parent directory",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robrichard/find-up-directory-tree.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
